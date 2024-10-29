@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScannerDemo</string>
+    <string name="camera_permission_needed">Camera Permission Needed</string>
+    <string name="app_needs_camera_permission">This app needs camera permission to scan barcodes.</string>
+</resources>
